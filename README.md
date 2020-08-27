@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Arah, a software developer passionate about converting technical and business requirements into highly scalable products. I employ good software development practices and methodogies to ship quality software and overall I bring positive energy around. 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paularah&count_private=true&show_icons=true&theme=radical)
 
 <!--
