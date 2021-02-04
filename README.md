@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 I am Arah, a software developer passionate about converting technical and business requirements into highly scalable products. I employ good software development practices and methodogies to ship quality software and overall I bring positive energy around. If it's open and has sauce to it, count me in. 
-
+-->
 
 <!--
 **paularah/paularah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
