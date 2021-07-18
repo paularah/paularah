@@ -6,7 +6,7 @@ I am Paul Arah a software engineer and a final year undergraduate Computer Scien
 
 - 🔭 I’m currently working on something nice 😄
 - 🌱 I’m currently learning Kubernetes
-- 💬 Ask me about Event-driven architectures, domain-driven design, containers, cloud, React and general backend development
+- 💬 Ask me about Event-driven architectures, Domain-driven design, Containers, cloud, Biomimicry, React and general backend development
 - 📫 How to reach me: hello@paularah.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I cook the best Nigerian stew
