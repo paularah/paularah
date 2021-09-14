@@ -10,4 +10,5 @@ I am Paul Arah a software engineer and a final year undergraduate Computer Scien
 - 📫 How to reach me: hello@paularah.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I cook the best Nigerian stew
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paularah&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paularah&count_private=true&show_icons=true&theme=radical)
+)
