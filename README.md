@@ -6,5 +6,4 @@ When I am not actively coding, I enjoy being active in technical communities. I 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paularah&count_private=true&show_icons=true&theme=radical)
 
