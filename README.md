@@ -21,7 +21,7 @@ I am actively looking for a new role if you're hiring. You can find an online ve
 * Concurrency in Go; tools and techniques for developers by Katherine Cox-Buday.
 
 ### Currently Learning  📝 📌 
-* Tailwind CSS — settled on this as choice of tool for building UIs. 
+* Tailwind CSS — settled on this as my choice of tool for building UIs. 
 * Postgres internals, advanced features and RDMS in general. 
 * Kubernetes and its tooling. 
 * Random computer sciency things. 
