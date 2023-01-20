@@ -24,9 +24,9 @@ I am actively looking for a new role if you're hiring. You can find an online ve
 ### Currently Learning  📝 📌 
 * Tailwind CSS — settled on this as my choice of tool for building UIs. 
 * Postgres internals, advanced features and RDMS in general. 
-* Kubernetes and its tooling. 
+* Terraform, shell scripting, kubernetes and its tooling. 
 * Random computer sciency things. 
-* Occasionally leetcode [here](https://leetcode.com/paularah/).
+* Occasionally leetcode [here](https://leetcode.com/paularah/) with a particular interest in graph problems.
 
 
 I enjoy being active in technical communities. I am currently an ambassador for the [Traefik](https://traefik.io/) reverse proxy community. I occasionally write on my blog here [https://dev.to/paularah](https://dev.to/paularah).
