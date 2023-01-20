@@ -7,7 +7,7 @@ I am a software engineer passionate about translating business requiremnts, obje
  
 I built a [popular](https://twitter.com/ArahPaul/status/1534999763095019523) tool - [Ahantu](https://www.ahantu.rw/)  for easily finding cells, villages, sectors, and districts from street addresses and geo coordinates in Rwanda. 
 
-I am actively looking for a new role i you're hiring. YOU  find a online version of my resume at [read.cv/arah](https://read.cv/arah). I'd be happy to chat, I look forward to speaking with you⚡️
+I am actively looking for a new role if you're hiring. You can find an online version of my resume at [read.cv/arah](https://read.cv/arah). I'd be happy to chat, I look forward to speaking with you⚡️
 
 ### Favourites Tools 🧵 🪡
 * MongoDB(keeps your db problems till later)
