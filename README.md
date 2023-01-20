@@ -1,7 +1,7 @@
 
 ### Hola👋 I'm Paul, 
 
-I am a software engineer passionate about translating business requiremnts, objectives and goals into scalable products for users. My core skills include Golang, Node.js, MongoDB, Postgres, Docker, Kubernetes, and Linux.  
+I am a software engineer passionate about translating business requirements, objectives and goals into scalable products for users. My core skills include Golang, Node.js, MongoDB, Postgres, Docker, Kubernetes, and Linux.  
  
  I previously worked for a couple mostly failed startups like [Dankoob](https://dankoob.com/), [Fress](https://fress.app/), [JustSerp](https://justserp.com/). I have also done some random things like fellowships, internships, freelancing and consultancy for companies like [Libary Aid](https://librarytracker.org/)
  
@@ -11,8 +11,8 @@ I am actively looking for a new role if you're hiring. You can find an online ve
 
 ### Favourites Tools 🧵 🪡
 * MongoDB(keeps your db problems till later)
-* Golang(a true swife army knife, great for everyday needs while being simultaneusly low-level enough to do systems programming and the fun networking stuff).
-* Kubernetes(sends you on a learning roller coaster that includes but not limited to container internals, networking, security, & linux).
+* Golang(a true swife army knife, great for everyday needs while being simultaneusly low-level enough to do systems programming and all the cool networking stuff).
+* Kubernetes(sends you on a learning roller coaster that includes but not limited to container internals, networking, security, deployment patterns & linux).
 * Vim (I heard it causes receding hairline, but it's woth it). 
 
 ### Currently Reading 📚 📖 
