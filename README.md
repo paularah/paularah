@@ -10,8 +10,9 @@ I built a [popular](https://twitter.com/ArahPaul/status/1534999763095019523) too
 I am actively looking for a new role if you're hiring. You can find an online version of my resume at [read.cv/arah](https://read.cv/arah). I'd be happy to chat, I look forward to speaking with you⚡️
 
 ### Favourites Tools 🧵 🪡
-* MongoDB(keeps your db problems till later)
+* MongoDB(keeps your db problems till later).
 * Golang(a true swife army knife, great for everyday needs while being simultaneusly low-level enough to do systems programming and all the cool networking stuff).
+* Node.js(does what it designed to do well).
 * Kubernetes(sends you on a learning roller coaster that includes but not limited to container internals, networking, security, deployment patterns & linux).
 * Vim (I heard it causes receding hairline, but it's woth it). 
 
