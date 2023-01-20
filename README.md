@@ -3,7 +3,7 @@
 
 I am a software engineer passionate about translating business requiremnts, objectives and goals into scalable products for users. My core skills include Golang, Node.js, MongoDB, Postgres, Docker, Kubernetes, and Linux.  
  
- I previously worked for a couple mostly failed startups like [Dankoob](https://dankoob.com/), [Fress](https://fress.app/), [JustSerp](https://justserp.com/). I have also done some random things like fellowships, freelancing and consultancy for companies like [Libary Aid](https://librarytracker.org/)
+ I previously worked for a couple mostly failed startups like [Dankoob](https://dankoob.com/), [Fress](https://fress.app/), [JustSerp](https://justserp.com/). I have also done some random things like fellowships, internships, freelancing and consultancy for companies like [Libary Aid](https://librarytracker.org/)
  
 I built a [popular](https://twitter.com/ArahPaul/status/1534999763095019523) tool - [Ahantu](https://www.ahantu.rw/)  for easily finding cells, villages, sectors, and districts from street addresses and geo coordinates in Rwanda. 
 
