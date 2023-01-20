@@ -12,9 +12,9 @@ I am actively looking for a new role if you're hiring. You can find an online ve
 ### Favourites Tools 🧵 🪡
 * MongoDB(keeps your db problems till later).
 * Golang(a true swife army knife, great for everyday needs while being simultaneusly low-level enough to do systems programming and all the cool networking stuff).
-* Node.js(does what it designed to do well).
+* Node.js.
 * Kubernetes(sends you on a learning roller coaster that includes but not limited to container internals, networking, security, deployment patterns & linux).
-* Vim (I heard it causes receding hairline, but it's woth it). 
+* Vim (I heard it causes receding hairline, but it's worth it). 
 
 ### Currently Reading 📚 📖 
 * Refactoring UI by Adam Wathan & Steve Schoger — I'm making intentional effort be better at building good UIs. 
@@ -28,6 +28,5 @@ I am actively looking for a new role if you're hiring. You can find an online ve
 * Random computer sciency things. 
 * Occasionally leetcode [here](https://leetcode.com/paularah/) with a particular interest in graph problems.
 
-
-I enjoy being active in technical communities. I am currently an ambassador for the [Traefik](https://traefik.io/) reverse proxy community. I occasionally write on my blog here [https://dev.to/paularah](https://dev.to/paularah).
+I am currently an ambassador for the [Traefik](https://traefik.io/) reverse proxy community. I occasionally write on my blog here [https://dev.to/paularah](https://dev.to/paularah).
 I kept a low budget [Youtube channel](https://www.youtube.com/channel/UCgLDHwAR153t_Yv2cIi3z0g) while teaching at Solvit Africa — a bootcamp for budding software engineers.  
