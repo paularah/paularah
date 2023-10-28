@@ -19,19 +19,19 @@ In my spare time, I enjoy mountain biking and trying out new trails🚴‍♂️
 * Vim (I heard it causes receding hairline, but it's worth it).
 * Linux (Well, you can't run away from it)
 
+### Currently Learning  📝 📌 
+* Linux - through the LFCS curriculum, I won't be taking the certification itself. 
+* Kubernetes - In preparation to get certified as a Certified Kubernetes Administrator(CKA). 
+* Terraform, shell scripting, Kubernetes, and its tooling. 
+* Random computer sciency things. 
+* Occasionally leetcode [here](https://leetcode.com/paularah/) with a particular interest in graph problems.
+
 ### Currently Reading 📚 📖 
-* Soft Skills: The software developer's life manual
+* Soft Skills: The software developer's life manual by John Sonmez 
 * Google technical writing course -  Casually audited this courses a couple of years ago, but I've been writing more lately, and I'd benefit from going through the material again.
 * Hands-On System Programming with Go by Alex Guerrieri — So I can pretend I'm smart on Twitter. 
 * Concurrency in Go; tools and techniques for developers by Katherine Cox-Buday.
   
-
-### Currently Learning  📝 📌 
-* Linux - through the LFCS curriculum, I won't be taking the certification itself. 
-* Kubernetes - In preparation to get certified as a Certified Kubernetes Administrator(CKA). 
-* Terraform, shell scripting, Kubernetes and its tooling. 
-* Random computer sciency things. 
-* Occasionally leetcode [here](https://leetcode.com/paularah/) with a particular interest in graph problems.
 
 I am currently an ambassador for the [Traefik](https://traefik.io/) reverse proxy community. I occasionally write on my blog here [https://dev.to/paularah](https://dev.to/paularah).
 I kept a low-budget [Youtube channel](https://www.youtube.com/channel/UCgLDHwAR153t_Yv2cIi3z0g) while teaching at Solvit Africa — a bootcamp for budding software engineers.  
