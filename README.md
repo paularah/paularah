@@ -24,7 +24,6 @@ In my spare time, I enjoy mountain biking and trying out new trails🚴‍♂️
 * Kubernetes - In preparation to get certified as a Certified Kubernetes Administrator(CKA). 
 * Terraform, shell scripting, Kubernetes, and its tooling. 
 * Random computer sciency things. 
-* Occasionally leetcode [here](https://leetcode.com/paularah/) with a particular interest in graph problems.
 
 ### Currently Reading 📚 📖 
 * Soft Skills: The software developer's life manual by John Sonmez 
