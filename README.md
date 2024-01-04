@@ -1,10 +1,6 @@
 
 ### Hola👋 I'm Paul, 
-
-I am a software engineer passionate about translating business requirements, objectives, and goals into scalable products for users. My core skills include Golang, Node.js, MongoDB, Postgres, Docker, Kubernetes, and Linux.  
  
-I am doing open source work researching and documenting  Advanced Network Protocol Visibility,  Bandwidth and Latency Optimization, Egress Gateway, Identity-aware L3/L4/DNS Network Flow Logs, etc, use cases for [Cilium](https://cilium.io/). 
-
 I built a [popular](https://twitter.com/ArahPaul/status/1534999763095019523) tool - [Ahantu](https://www.ahantu.rw/)  for easily finding cells, villages, sectors, and districts from street addresses and geo coordinates in Rwanda. 
 
 I am building [NextPesa](https://www.nextpesa.com/), A tool to aggregate mobile money transaction data💸. 
@@ -32,5 +28,5 @@ In my spare time, I enjoy mountain biking and trying out new trails🚴‍♂️
 * Concurrency in Go; tools and techniques for developers by Katherine Cox-Buday.
   
 
-I am currently an ambassador for the [Traefik](https://traefik.io/) reverse proxy community. I occasionally write on my blog here [https://dev.to/paularah](https://dev.to/paularah).
+I occasionally write on my blog here [https://dev.to/paularah](https://dev.to/paularah).
 I kept a low-budget [Youtube channel](https://www.youtube.com/channel/UCgLDHwAR153t_Yv2cIi3z0g) while teaching at Solvit Africa — a bootcamp for budding software engineers.  
